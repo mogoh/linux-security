@@ -16,6 +16,7 @@ wget -q -O- https://raw.githubusercontent.com/mogoh/linux-security/main/security
 ```
 
 <details>
+<summary></summary>
 
 ## It’s just a joke ...
 
