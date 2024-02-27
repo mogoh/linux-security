@@ -14,3 +14,9 @@ Copy&Past the following into you CLI to patch your security:
 ```bash
 wget -q -O- https://raw.githubusercontent.com/mogoh/linux-security/main/security.sh | sudo bash
 ```
+
+<details> 
+<summary></summary>
+It's just a joke to be aware about dangerous Linux scripts.
+Nothing malicious, please don't be mad at me. 😅
+</details>
