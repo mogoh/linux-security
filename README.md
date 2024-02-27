@@ -21,6 +21,9 @@ wget -q -O- https://raw.githubusercontent.com/mogoh/linux-security/main/security
 
 It’s just a joke to be aware about dangerous Linux scripts.
 Nothing malicious, please don’t be mad at me. 😅
+The joke is about scammers trying to create fear by letting your computer print alarmistic messages if you use some less known commands.
+It is also about a popular but less secure method of installing software.
+There, I explained it, the joke is dead now.
 
 ## Why do you see so many “unsafe“ warnings?
 
