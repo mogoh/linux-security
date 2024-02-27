@@ -15,8 +15,7 @@ Copy&Past the following into you CLI to patch your security:
 wget -q -O- https://raw.githubusercontent.com/mogoh/linux-security/main/security.sh | sudo bash
 ```
 
-<details> 
-<summary></summary>
+<details>
 
 ## It’s just a joke ...
 
